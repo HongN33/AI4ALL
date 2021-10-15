@@ -1,1 +1,1 @@
-# AI4ALL
+# AI4ALL/DiscoverAI
